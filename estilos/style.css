@@ -29,7 +29,7 @@ section#telefone{
      top: 50%;
      left: 50%;
      transform: translate(-50% ,-50%);
-     height: 627px;
+     height: 630px;
      width: 315px;
      background-color: ;
      background:  url('../imagens/frame-iphone.png') no-repeat;
@@ -39,8 +39,8 @@ section#telefone{
 }
 section#redes-sociais img {
      
-     width: 50px;
-     margin: 10px;
+     width: 45px;
+     margin: 7px;
      border-radius: 50%;
      box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.403) ;
      box-sizing: border-box;
@@ -49,8 +49,7 @@ section#redes-sociais img {
     
 }
 section#redes-sociais{
-     text-align: right;
-
+     text-align:center;
 }
 section#redes-sociais img:hover{
      border: 2px solid rgba(255, 255, 255, 0.496);
