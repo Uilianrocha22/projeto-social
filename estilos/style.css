@@ -26,8 +26,8 @@ body{
 section#telefone{
 
      position: absolute;
-     top: 50%;
-     left: 55%;
+     top: 49%;
+     left: 47%;
      transform: translate(-40% ,-50%);
      height: 628px;
      width: 315px;
@@ -40,7 +40,8 @@ section#telefone{
 section#redes-sociais img {
      
      width: 45px;
-     margin: 7px;
+     margin: 10px;
+    
      border-radius: 50%;
      box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.403) ;
      box-sizing: border-box;
@@ -49,6 +50,7 @@ section#redes-sociais img {
     
 }
 section#redes-sociais{
+     padding-top: 90px;
      text-align:left;
 }
 section#redes-sociais img:hover{
