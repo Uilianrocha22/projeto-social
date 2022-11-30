@@ -21,8 +21,7 @@ img {
      width: 0px;
      height: 0px;
 }
-a {
-     display: block;
+a {  display:block;
      background-color: darkblue;
      padding: 10px;
      text-align: center;
